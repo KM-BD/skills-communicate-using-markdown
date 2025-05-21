@@ -8,6 +8,7 @@
 -->
 
 # Communicate using Markdown
+# H1 Header
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
